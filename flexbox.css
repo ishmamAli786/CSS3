@@ -1,0 +1,25 @@
+section{
+    width: 100%;
+    background-color: cyan;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    display:flex;
+    justify-content: space-around;
+    
+}
+section div{
+    padding: 20px;
+    border: 1px solid black;
+    
+}
+.flexone{
+    background-color: red;
+}
+.flextwo{
+    background-color: yellow;
+}
+.flexthree{
+   
+    background-color:green;
+}
